@@ -23,5 +23,6 @@ Follow commands on terminal
 chmod 777 install_SDK.sh
 ./install_SDK.sh
 ```
+Don't try with SDK's demo codes, You can use Demo directory fromm my repo
 I wanna try to get more FPS with Google Coral. If i do that, i will update this repo
 ![Example](https://github.com/JpnTr/HT-GE1400C-TPO-CL-Camera-Sensor/blob/main/test.gif)
